@@ -1,0 +1,23 @@
+{
+  "name": "study-node",
+  "version": "1.0.0",
+  "description": "A repo of study Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aimer-ref/study-node.git"
+  },
+  "author": "Aimer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aimer-ref/study-node/issues"
+  },
+  "homepage": "https://github.com/Aimer-ref/study-node#readme",
+  "devDependencies": {
+    "@types/node": "^18.6.4",
+    "prettier": "2.7.1"
+  }
+}
